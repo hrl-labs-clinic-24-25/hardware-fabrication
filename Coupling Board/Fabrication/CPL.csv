@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J3,Molex6,CONN_SD-5566-002_06_MOL,98.280002,-72.385101,0,top
+J5,DB25_Socket,DSUB-TH_DS1034-25FUNSI44,121.92,-81.28,90,top
+J6,DB25_Socket,DSUB-TH_DS1034-25FUNSI44,165.1,-81.28,90,top
+J1,Molex Microfit,CONN_SD-43650-006_02_MOL,101.6,-88.9,0,bottom
+J2,Conn_02x12_Odd_Even,IDC-Header_2x12_P2.54mm_Vertical,83.82,-96.52,0,bottom
+J4,Conn_02x12_Odd_Even,PinHeader_2x12_P2.54mm_Vertical,144.56,-113.32,0,bottom

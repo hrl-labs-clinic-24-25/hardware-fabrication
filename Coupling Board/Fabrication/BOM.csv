@@ -1,0 +1,7 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+H5,MountingHole_3.5mm_Pad,1,MountingHole_Pad,
+J1,CONN_SD-43650-006_02_MOL,1,Molex Microfit,C293740
+J2,IDC-Header_2x12_P2.54mm_Vertical,1,Conn_02x12_Odd_Even,C7501246
+J3,CONN_SD-5566-002_06_MOL,1,Molex6,C471417
+J4,PinHeader_2x12_P2.54mm_Vertical,1,Conn_02x12_Odd_Even,C2883985
+"J5, J6",DSUB-TH_DS1034-25FUNSI44,2,DB25_Socket,C77833

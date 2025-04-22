@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "wireconnect")(type "KiCad")(uri "${KIPRJMOD}/wireconnect.kicad_sym")(options "")(descr ""))
+  (lib (name "sma_connector")(type "KiCad")(uri "${KIPRJMOD}/sma_connector.kicad_sym")(options "")(descr ""))
+  (lib (name "wireConnect")(type "KiCad")(uri "${KIPRJMOD}/ul_B2B-PH-K-S-LF-SN-/KiCADv6/wireConnect.kicad_sym")(options "")(descr ""))
+  (lib (name "connector_sma")(type "KiCad")(uri "${KIPRJMOD}/connector_sma.kicad_sym")(options "")(descr ""))
+)
