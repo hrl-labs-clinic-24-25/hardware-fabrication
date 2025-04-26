@@ -1,0 +1,19 @@
+Comment,Designator,Footprint,JLCPCB Part #
+Muxes,"U6,U10","Package_SO Library, TSSOP-16_4.4x5mm_P0.65mm",C352826
+Input/Output Buffers,"U1,U2,U5",DGG48,C2862419
+Level Shifter,"U7,U8,U9",TSSOP_0104PWR_TEX,C2938871
+10k Resistor,"R1,R2,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15",Resistor_SMD:R_0805_2012Metric,
+2.2k Resistor,R3,Resistor_SMD:R_0805_2012Metric,
+0.1 uF Capacitor,"C1,C2,C3,C4,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22,C23,C24",Capacitor_SMD:C_0805_2012Metric,
+10uF Capacitor,"C5,C6",Capacitor_SMD:C_0805_2012Metric,
+22uF Capacitor,"C7,C8",Capacitor_SMD:C_0805_2012Metric,
+1.8V Red-Orange LED,D1,LED_SMD:LED_0805_2012Metric,C7466711
+Test Clips,"T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13",S1751-46R:HARWIN_S1751-46R,C3345122
+1x3 Male Header,J1,PinHeader_1x03_P2.54mm_Vertical,C5360899
+Pmod right angle header,"J8,J9,J10,J11,J12,J13,J14,J15",PinSocket_2x06_P2.54mm_Horizontal,C2897426
+IDC 2x12 Male Receptacle,"J2,J4,J7",PinHeader_2x12_P2.54mm_Vertical,C7501246
+Molex Microfit Connector,J3,CONN_SD-43650-001_02_MOL,C192562
+Banana Connector (Black),J6,CONN-TH_24.243.2_Better_Silkscreen,C7437322
+Banan Connector (Red),J5,CONN-TH_24.243.2_Better_Silkscreen,C7437321
+1A 1.8V LDO,U4,Package_TO_SOT_SMD:SOT-223-3_TabPin2,C347220
+5A 3.3V LDO,U3,Package_TO_SOT_SMD:TO-252-3_TabPin2,C151391
