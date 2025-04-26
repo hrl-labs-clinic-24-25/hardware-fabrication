@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,Quantity,Value,JLCPCB Part #
+Wire To Board Connector ROHS,"J1, J2, J3, J4, J5, J6, J7, J8",CONN_B2B-PH-K-SLFSN_JST,8,B2B-PH-K-SLFSN,C131337
+SMA Coaxial Connectors (RF) ROHS,"S1, S2, S3, S4, S5, S6, S7, S8",smaconnect_DACs:HJ-SMA993,8,SMA_CONNECTOR,C6321914
+0 Ohm Resistor,"R1, R2, R3, R4, R5, R6, R7, R8",Resistor_SMD:R_0805_2012Metric,8,0,C17477
